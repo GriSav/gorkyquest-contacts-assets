@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'CreepsterCyrillic';
+	src: url('../fonts/creepstercyrillic.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/creepstercyrillic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/creepstercyrillic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/creepstercyrillic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/creepstercyrillic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/creepstercyrillic.svg#creepstercyrillic') format('svg'); /* Chrome < 4, Legacy iOS */
+}
